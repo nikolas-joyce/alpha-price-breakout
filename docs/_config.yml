@@ -1,0 +1,4 @@
+﻿title: "Alpha: Price Breakout (20-bar)"
+theme: minima
+plugins:
+  - jekyll-seo-tag
