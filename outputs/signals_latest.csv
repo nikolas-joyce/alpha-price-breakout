@@ -9247,3 +9247,6 @@ date,ticker,direction,alpha_name
 2026-04-21,XLF,1,alpha_price_breakout
 2026-04-23,QQQ,1,alpha_price_breakout
 2026-04-23,SPY,1,alpha_price_breakout
+2026-04-27,EEM,1,alpha_price_breakout
+2026-04-27,QQQ,1,alpha_price_breakout
+2026-04-27,SPY,1,alpha_price_breakout
