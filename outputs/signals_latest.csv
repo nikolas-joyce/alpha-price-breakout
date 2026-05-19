@@ -9297,3 +9297,5 @@ date,ticker,direction,alpha_name
 2026-05-18,TLT,-1,alpha_price_breakout
 2026-05-18,UUP,1,alpha_price_breakout
 2026-05-18,VNQ,-1,alpha_price_breakout
+2026-05-19,TLT,-1,alpha_price_breakout
+2026-05-19,XLE,1,alpha_price_breakout
