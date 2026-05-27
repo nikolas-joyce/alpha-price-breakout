@@ -9305,3 +9305,9 @@ date,ticker,direction,alpha_name
 2026-05-20,USO,1,alpha_price_breakout
 2026-05-20,UUP,1,alpha_price_breakout
 2026-05-20,XLE,1,alpha_price_breakout
+2026-05-27,EEM,1,alpha_price_breakout
+2026-05-27,HYG,1,alpha_price_breakout
+2026-05-27,IWM,1,alpha_price_breakout
+2026-05-27,QQQ,1,alpha_price_breakout
+2026-05-27,SPY,1,alpha_price_breakout
+2026-05-27,VNQ,1,alpha_price_breakout
