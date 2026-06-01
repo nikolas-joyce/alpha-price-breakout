@@ -9319,3 +9319,7 @@ date,ticker,direction,alpha_name
 2026-05-29,QQQ,1,alpha_price_breakout
 2026-05-29,SPY,1,alpha_price_breakout
 2026-05-29,USO,-1,alpha_price_breakout
+2026-06-01,HYG,1,alpha_price_breakout
+2026-06-01,QQQ,1,alpha_price_breakout
+2026-06-01,SPY,1,alpha_price_breakout
+2026-06-01,USO,-1,alpha_price_breakout
