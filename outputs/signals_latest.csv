@@ -9326,3 +9326,6 @@ date,ticker,direction,alpha_name
 2026-06-02,EEM,1,alpha_price_breakout
 2026-06-02,QQQ,1,alpha_price_breakout
 2026-06-02,SPY,1,alpha_price_breakout
+2026-06-03,EEM,1,alpha_price_breakout
+2026-06-03,QQQ,1,alpha_price_breakout
+2026-06-03,SPY,1,alpha_price_breakout
