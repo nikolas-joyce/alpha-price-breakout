@@ -9348,3 +9348,7 @@ date,ticker,direction,alpha_name
 2026-06-11,SPY,-1,alpha_price_breakout
 2026-06-11,UUP,1,alpha_price_breakout
 2026-06-11,VNQ,1,alpha_price_breakout
+2026-06-12,HYG,1,alpha_price_breakout
+2026-06-12,TLT,1,alpha_price_breakout
+2026-06-12,USO,-1,alpha_price_breakout
+2026-06-12,XLF,1,alpha_price_breakout
