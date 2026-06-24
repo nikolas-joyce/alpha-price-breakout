@@ -9378,3 +9378,6 @@ date,ticker,direction,alpha_name
 2026-06-23,IWM,1,alpha_price_breakout
 2026-06-23,USO,-1,alpha_price_breakout
 2026-06-23,UUP,1,alpha_price_breakout
+2026-06-24,SLV,-1,alpha_price_breakout
+2026-06-24,USO,-1,alpha_price_breakout
+2026-06-24,UUP,1,alpha_price_breakout
