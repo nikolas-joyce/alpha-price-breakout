@@ -9404,3 +9404,5 @@ date,ticker,direction,alpha_name
 2026-07-14,EEM,-1,alpha_price_breakout
 2026-07-14,TLT,-1,alpha_price_breakout
 2026-07-15,XLF,1,alpha_price_breakout
+2026-07-16,USO,1,alpha_price_breakout
+2026-07-16,XLF,1,alpha_price_breakout
