@@ -9406,3 +9406,10 @@ date,ticker,direction,alpha_name
 2026-07-15,XLF,1,alpha_price_breakout
 2026-07-16,USO,1,alpha_price_breakout
 2026-07-16,XLF,1,alpha_price_breakout
+2026-07-17,EEM,-1,alpha_price_breakout
+2026-07-17,GLD,-1,alpha_price_breakout
+2026-07-17,QQQ,-1,alpha_price_breakout
+2026-07-17,SLV,-1,alpha_price_breakout
+2026-07-17,VNQ,1,alpha_price_breakout
+2026-07-17,XLE,1,alpha_price_breakout
+2026-07-17,XLF,1,alpha_price_breakout
