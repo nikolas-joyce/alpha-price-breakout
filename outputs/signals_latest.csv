@@ -9421,3 +9421,6 @@ date,ticker,direction,alpha_name
 2026-07-21,TLT,-1,alpha_price_breakout
 2026-07-21,USO,1,alpha_price_breakout
 2026-07-21,XLE,1,alpha_price_breakout
+2026-07-22,TLT,-1,alpha_price_breakout
+2026-07-22,USO,1,alpha_price_breakout
+2026-07-22,XLE,1,alpha_price_breakout
