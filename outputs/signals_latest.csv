@@ -9459,3 +9459,7 @@ date,ticker,direction,alpha_name
 2026-08-05,IWM,1,alpha_price_breakout
 2026-08-05,SPY,1,alpha_price_breakout
 2026-08-05,XLF,1,alpha_price_breakout
+2026-08-06,GLD,1,alpha_price_breakout
+2026-08-06,SLV,1,alpha_price_breakout
+2026-08-06,UUP,-1,alpha_price_breakout
+2026-08-06,XLF,1,alpha_price_breakout
