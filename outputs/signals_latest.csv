@@ -9473,3 +9473,5 @@ date,ticker,direction,alpha_name
 2026-08-11,SLV,1,alpha_price_breakout
 2026-08-11,VNQ,-1,alpha_price_breakout
 2026-08-11,XLE,1,alpha_price_breakout
+2026-08-12,VNQ,-1,alpha_price_breakout
+2026-08-12,XLE,1,alpha_price_breakout
