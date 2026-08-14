@@ -9479,3 +9479,10 @@ date,ticker,direction,alpha_name
 2026-08-13,GLD,1,alpha_price_breakout
 2026-08-13,IWM,1,alpha_price_breakout
 2026-08-13,XLE,1,alpha_price_breakout
+2026-08-14,EEM,1,alpha_price_breakout
+2026-08-14,HYG,1,alpha_price_breakout
+2026-08-14,IWM,1,alpha_price_breakout
+2026-08-14,QQQ,1,alpha_price_breakout
+2026-08-14,SPY,1,alpha_price_breakout
+2026-08-14,XLE,1,alpha_price_breakout
+2026-08-14,XLF,1,alpha_price_breakout
