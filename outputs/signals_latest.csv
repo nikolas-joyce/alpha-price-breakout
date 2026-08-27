@@ -9503,3 +9503,6 @@ date,ticker,direction,alpha_name
 2026-08-24,GLD,1,alpha_price_breakout
 2026-08-24,SLV,1,alpha_price_breakout
 2026-08-25,GLD,1,alpha_price_breakout
+2026-08-26,GLD,1,alpha_price_breakout
+2026-08-26,HYG,1,alpha_price_breakout
+2026-08-26,XLF,1,alpha_price_breakout
