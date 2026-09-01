@@ -9508,3 +9508,5 @@ date,ticker,direction,alpha_name
 2026-08-26,XLF,1,alpha_price_breakout
 2026-08-28,EEM,1,alpha_price_breakout
 2026-08-28,SLV,1,alpha_price_breakout
+2026-09-01,IWM,-1,alpha_price_breakout
+2026-09-01,XLE,1,alpha_price_breakout
