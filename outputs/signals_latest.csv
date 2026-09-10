@@ -9524,3 +9524,7 @@ date,ticker,direction,alpha_name
 2026-09-08,EEM,1,alpha_price_breakout
 2026-09-09,EEM,1,alpha_price_breakout
 2026-09-09,USO,1,alpha_price_breakout
+2026-09-10,HYG,-1,alpha_price_breakout
+2026-09-10,USO,1,alpha_price_breakout
+2026-09-10,VNQ,-1,alpha_price_breakout
+2026-09-10,XLE,1,alpha_price_breakout
