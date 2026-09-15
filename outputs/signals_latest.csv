@@ -9528,3 +9528,11 @@ date,ticker,direction,alpha_name
 2026-09-10,USO,1,alpha_price_breakout
 2026-09-10,VNQ,-1,alpha_price_breakout
 2026-09-10,XLE,1,alpha_price_breakout
+2026-09-11,GLD,-1,alpha_price_breakout
+2026-09-11,HYG,-1,alpha_price_breakout
+2026-09-11,IWM,-1,alpha_price_breakout
+2026-09-11,SPY,-1,alpha_price_breakout
+2026-09-11,TLT,-1,alpha_price_breakout
+2026-09-11,USO,1,alpha_price_breakout
+2026-09-11,VNQ,-1,alpha_price_breakout
+2026-09-11,XLF,-1,alpha_price_breakout
