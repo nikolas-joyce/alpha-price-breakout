@@ -9537,3 +9537,6 @@ date,ticker,direction,alpha_name
 2026-09-11,VNQ,-1,alpha_price_breakout
 2026-09-11,XLF,-1,alpha_price_breakout
 2026-09-14,HYG,-1,alpha_price_breakout
+2026-09-15,GLD,-1,alpha_price_breakout
+2026-09-15,HYG,-1,alpha_price_breakout
+2026-09-15,SLV,-1,alpha_price_breakout
