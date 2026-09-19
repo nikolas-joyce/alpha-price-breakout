@@ -9550,3 +9550,9 @@ date,ticker,direction,alpha_name
 2026-09-16,VNQ,-1,alpha_price_breakout
 2026-09-16,XLE,1,alpha_price_breakout
 2026-09-16,XLF,-1,alpha_price_breakout
+2026-09-17,GLD,-1,alpha_price_breakout
+2026-09-17,IWM,-1,alpha_price_breakout
+2026-09-17,SPY,-1,alpha_price_breakout
+2026-09-17,UUP,1,alpha_price_breakout
+2026-09-17,VNQ,-1,alpha_price_breakout
+2026-09-17,XLF,-1,alpha_price_breakout
