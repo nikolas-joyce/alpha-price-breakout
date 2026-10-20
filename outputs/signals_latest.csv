@@ -9631,3 +9631,5 @@ date,ticker,direction,alpha_name
 2026-10-15,IWM,-1,alpha_price_breakout
 2026-10-15,SLV,-1,alpha_price_breakout
 2026-10-15,XLE,1,alpha_price_breakout
+2026-10-16,EEM,-1,alpha_price_breakout
+2026-10-16,USO,1,alpha_price_breakout
