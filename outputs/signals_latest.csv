@@ -9639,3 +9639,5 @@ date,ticker,direction,alpha_name
 2026-10-19,USO,1,alpha_price_breakout
 2026-10-19,XLE,1,alpha_price_breakout
 2026-10-21,XLF,1,alpha_price_breakout
+2026-10-22,TLT,1,alpha_price_breakout
+2026-10-22,XLF,1,alpha_price_breakout
