@@ -9674,9 +9674,12 @@ date,ticker,direction,alpha_name
 2026-11-02,XLE,1,alpha_price_breakout
 2026-11-03,QQQ,-1,alpha_price_breakout
 2026-11-03,SPY,-1,alpha_price_breakout
+2026-11-03,TLT,1,alpha_price_breakout
 2026-11-03,VNQ,1,alpha_price_breakout
 2026-11-03,XLF,1,alpha_price_breakout
+2026-11-05,HYG,1,alpha_price_breakout
 2026-11-05,IWM,1,alpha_price_breakout
+2026-11-05,TLT,1,alpha_price_breakout
 2026-11-05,VNQ,1,alpha_price_breakout
 2026-11-05,XLF,1,alpha_price_breakout
 2026-11-06,EEM,-1,alpha_price_breakout
@@ -9687,3 +9690,5 @@ date,ticker,direction,alpha_name
 2026-11-09,XLE,-1,alpha_price_breakout
 2026-11-10,TLT,1,alpha_price_breakout
 2026-11-10,USO,-1,alpha_price_breakout
+2026-11-11,USO,-1,alpha_price_breakout
+2026-11-11,UUP,1,alpha_price_breakout
