@@ -9697,3 +9697,7 @@ date,ticker,direction,alpha_name
 2026-11-13,UUP,1,alpha_price_breakout
 2026-11-16,SLV,-1,alpha_price_breakout
 2026-11-16,UUP,1,alpha_price_breakout
+2026-11-17,GLD,-1,alpha_price_breakout
+2026-11-17,SLV,-1,alpha_price_breakout
+2026-11-17,USO,-1,alpha_price_breakout
+2026-11-17,UUP,1,alpha_price_breakout
