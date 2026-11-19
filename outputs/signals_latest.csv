@@ -9701,3 +9701,6 @@ date,ticker,direction,alpha_name
 2026-11-17,SLV,-1,alpha_price_breakout
 2026-11-17,USO,-1,alpha_price_breakout
 2026-11-17,UUP,1,alpha_price_breakout
+2026-11-18,GLD,-1,alpha_price_breakout
+2026-11-18,IWM,-1,alpha_price_breakout
+2026-11-18,SPY,-1,alpha_price_breakout
