@@ -9711,3 +9711,13 @@ date,ticker,direction,alpha_name
 2026-11-19,USO,-1,alpha_price_breakout
 2026-11-19,UUP,1,alpha_price_breakout
 2026-11-19,XLE,-1,alpha_price_breakout
+2026-11-20,EEM,-1,alpha_price_breakout
+2026-11-20,GLD,-1,alpha_price_breakout
+2026-11-20,HYG,-1,alpha_price_breakout
+2026-11-20,IWM,-1,alpha_price_breakout
+2026-11-20,QQQ,-1,alpha_price_breakout
+2026-11-20,SLV,-1,alpha_price_breakout
+2026-11-20,SPY,-1,alpha_price_breakout
+2026-11-20,UUP,1,alpha_price_breakout
+2026-11-20,XLE,-1,alpha_price_breakout
+2026-11-20,XLF,-1,alpha_price_breakout
